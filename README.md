@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub
 
 🌟 **About Me**  
-I'm **Avenosh**, a cloud enthusiast DevOps developer-in-the-making! With over **2 years of experience** in cloud infrastructure, I specialize in **Microsoft Azure**, **CI/CD pipelines**, and tools like **Terraform**, **Ansible**, and **Azure DevOps**. Currently, I'm focused on sharpening my skills to design, implement, and optimize cutting-edge cloud solutions.
+I'm **Artiom**, a cloud enthusiast DevOps developer-in-the-making! With over **2 years of experience** in cloud infrastructure, I specialize in **Microsoft Azure**, **CI/CD pipelines**, and tools like **Terraform**, **Ansible**, and **Azure DevOps**. Currently, I'm focused on sharpening my skills to design, implement, and optimize cutting-edge cloud solutions.
 
 💡 **What Drives Me**  
 - Building robust and scalable cloud infrastructure.  
